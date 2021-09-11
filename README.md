@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # newsblogger
 
 A new Flutter project.
@@ -14,3 +15,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter-modern-drawer
+
+<img src="https://github.com/dragongesa/flutter-modern-drawer/blob/master/screenrecord.gif" height="300"/>
+>>>>>>> 8c8414d4fda61e5ea1e95f4778d18ec18b52f822
